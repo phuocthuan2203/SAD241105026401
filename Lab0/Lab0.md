@@ -22,6 +22,8 @@ The layout is set from **left to right** for easy readability, with **Administra
 
 # Use-Case Diagram Using Package
 
+![Use-Case Diagram Using Package](https://www.planttext.com/api/plantuml/png/RP11RW8n34NtFeMNiE0A5IC4RCfcvWGfCS7gZ5Cv7YHKSNUSWQf0crNql_Nyv6Mne3OEFK3vP47DXG1wEXXQHkLqD8oij3VE0b0_GL9FsCI1fPdYWj-0_cQx825vvUc9ZQdCCHJSDRTsIq8QZB2bhwo6gw1n6jYsAxWyiZiR8uczq5jAN8mKDrbVTxIR-v9k_1ZOVkepha_ig3rDKrspheicTKUvZ9CMYpUSlUV4Cl_JUENs_wHL6UwQJuJVpCDgzHHK0LYIH3_u5G00)
+
 ## Description:
 
 This class diagram represents an inheritance hierarchy with a base class **Animal** and two derived classes, **Dog** and **Cat**.
@@ -58,5 +60,3 @@ This class diagram represents an inheritance hierarchy with a base class **Anima
 #### Methods:
 - **Meow()**: Represents the meowing behavior.
 - **Scratch()**: Represents the scratching behavior.
-
-![Use-Case Diagram Using Package](https://www.planttext.com/api/plantuml/png/RP11RW8n34NtFeMNiE0A5IC4RCfcvWGfCS7gZ5Cv7YHKSNUSWQf0crNql_Nyv6Mne3OEFK3vP47DXG1wEXXQHkLqD8oij3VE0b0_GL9FsCI1fPdYWj-0_cQx825vvUc9ZQdCCHJSDRTsIq8QZB2bhwo6gw1n6jYsAxWyiZiR8uczq5jAN8mKDrbVTxIR-v9k_1ZOVkepha_ig3rDKrspheicTKUvZ9CMYpUSlUV4Cl_JUENs_wHL6UwQJuJVpCDgzHHK0LYIH3_u5G00)
