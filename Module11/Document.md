@@ -1,10 +1,28 @@
+# Why
+- bridge between requirements and design: translate từ functional requirements into a technical design
+- assignning responsibilities: define which objects are responsible for specific actions -> a clear distribution of tasks within the system
+- facilitating implementation: a detailed interaction model -> dev implement the system accurately, reduce ambiguities and potential errors
+
+# How
+1. select the use case
+2. identify participating objects
+3. map use case steps to objects interactions
+4. create interaction diagrams (sequence diagram)
+5. define object responsibilities
+6. consider alternative and exception flows
+
+# Outputs
+- interaction diagrams
+- detailed class definition with attribute and method
+- description of interaction
+
 # Problem Statement
 
 The process of tracking student information, academic progress, and extracurricular activity participation during the semester is currently handled manually, which is time-consuming, error-prone, and inefficient. The administrator is responsible for tracking personal information, updating the student's studying status (whether they are actively learning or have dropped out), monitoring their fund payment status, and recording their participation in extracurricular activities. This data is stored across multiple spreadsheets, which makes the process tedious to manage.
 
 At the end of the semester, all this manually tracked information must be transferred into an Excel file provided by the department. Additionally, report cards need to be generated for each student, with grades taken from the Excel file and entered into report card templates provided by the university. This manual transfer of data is labour-intensive and prone to errors, causing unnecessary fatigue and inefficiencies. Therefore, a Student Monitoring System is needed to automate this entire process, improving accuracy, reducing time spent on manual data entry, and streamlining report generation.
 
-# Manage Activities
+# Use Case Description: Manage Activities
 
 ## Brief Description
 
